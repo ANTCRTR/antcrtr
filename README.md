@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://resume.io/r/4SMr997Zv](https://resume.io/r/4SMr997Zv)
 
-- ⚡ Fun fact **Fluent Russian speaker!**
+- ⚡ Fun fact **fluent Russian speaker!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
