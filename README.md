@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, TypeScript**
 
-- 💬 Ask me about **Ruby, Rails or American Literature ;)**
+- 💬 Ask me about **Ruby, Rails or American literature ;)**
 
 - 📫 How to reach me **altvnko@gmail.com**
 
