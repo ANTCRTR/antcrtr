@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Ruby, Rails or American literature ;)**
 
-- 📫 How to reach me **altvnko@gmail.com**
+- 📫 How to reach me: **altvnko@gmail.com**
 
 - ⚡ Fun fact **fluent Russian speaker!**
 
